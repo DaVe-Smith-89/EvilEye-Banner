@@ -1,3 +1,4 @@
+clear
 #colour code
 r='\e[1;31m'
 g='\e[1;32m'
