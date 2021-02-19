@@ -1,4 +1,8 @@
 clear
+pkg install figlet -y
+pkg install ruby -y
+gem install lolcat
+pkg install cowsay -y
 xdg-open https://youtu.be/qznWNXD_aMI
 #colour code
 r='\e[1;31m'
